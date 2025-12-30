@@ -10,7 +10,7 @@ All MATLAB files related to the interferogram denoising algorithms developed in 
 
 Contents
 --------
-main.m: Demonstrates the general structure of the interferogram denoising process.
+main.m: Demonstrates the general structure of the interferogram denoising process including PPWA-Goldstein filter.
 Additional MATLAB scripts and functions will be made publicly available after the paper’s acceptance.
 
 Usage
